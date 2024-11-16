@@ -10,5 +10,6 @@ from. models import Semester
 admin.site.register(Student)
 admin.site.register(Login)
 admin.site.register(HOD)
+
 admin.site.register(Faculty)
 admin.site.register(Department)
